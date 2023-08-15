@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+}
+h4 {
+    color: rgb(0, 0, 0);
+    margin-left:19px;
+    padding-bottom: 4px;
+
+}
+h3{
+    margin-left:10px;
+    padding-bottom: 5px;
+}
+
+#my{
+    font-style: italic;
+}
+#name{
+    color: blue;
+}
+.container{
+    width: 60%;
+    height: 1000px;
+    
+    background-color: darkslategray;
+   
+    margin-left:19%;
+
+    gap: 711px;
+    
+    margin-block: 7%;
+    
+}
+h1{
+    text-align: center;
+    color:rgb(44, 73, 215);
+    background-color: darkgrey;
+}
+img{
+    float:none;
+    padding-top: 50px;
+    width:200px;height:210px;margin-left:0%;
+}
+body{
+    background-color: rgb(172, 193, 138);
+    opacity: inherit;
+}
+#mys{
+    padding-left: 16%;
+    padding-top: 5%;
+}
+#myse{
+    padding-left: 19%;
+    padding-top: 3%;
+    padding-bottom: 0%;
+}
+#cont{
+    padding-left: 17%;
+    padding-bottom: 6%;
+    padding-top: 16%;
+}
+.connect{
+   
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+
+}
+.side{
+    background-color: rgb(38, 140, 43);
+  
+    width: 18%;
+   
+}
+
+.imi{
+    padding-left: 3%;
+    padding-right: 4.5%;
+    background-color: rgb(236, 232, 232);
+    
+  
+    width: 190px;    
+
+}
+.txtpart{
+    background-color: rgb(205, 9, 22);
+  padding-left: 30px;
+  
+  padding-top: 21px;
+  
+    gap: 10%;
+    width: 80%;
+    height: 98%;
+  }
+  #carrer{
+    padding-top: 46px;
+    
+  }
+  #para{
+    padding-top: 11px;
+    padding-left: 20px;
+    text-indent: 30px;
+    line-height: 21px;
+  }
+  .edu{
+    padding-top: 17px;
+    padding-bottom: 19px;
+ 
+
+  }
+  ul{
+    list-style: square;
+  }
+
+  #loca{
+    margin-left: 19px;
+    padding-bottom: 8px;
+  }
